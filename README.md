@@ -18,8 +18,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarkovRoman&show_icons=true&theme=flag-india)
 
 ---
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=romabarckow&theme=flag-india)](https://github.com/BarkovRoman/leetcode-stats)
+#### LeetCode
+![](https://leetcard.jacoblin.cool/romabarckow/)
 
 
 
