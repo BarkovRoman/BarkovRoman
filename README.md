@@ -19,7 +19,8 @@
 
 ---
 #### LeetCode
-![](https://leetcard.jacoblin.cool/romabarckow/)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/romabarckow)](https://leetcode.com/romabarckow/)
 
 
 
