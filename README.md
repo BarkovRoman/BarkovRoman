@@ -15,13 +15,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarkovRoman&show_icons=true&theme=flag-india)
 
 ---
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarkovRoman&repo=java-shareit&theme=aura)](https://github.com/BarkovRoman/java-shareit)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarkovRoman&repo=java-explore-with-me&theme=aura)](https://github.com/BarkovRoman/java-explore-with-me)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BarkovRoman&repo=java-filmorate&theme=aura)](https://github.com/BarkovRoman/java-filmorate)
-
+-->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 [Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
